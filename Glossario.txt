@@ -4,7 +4,5 @@ garantias, direitos e deveres para quem faz uso da rede, bem como da determinaç
 
 Compliance
 A ideia de Compliance em TI tem se tornado um conceito muito importante e cada vez mais urgente para as empresas dos mais diversos setores da economia. Compliance, em tradução livre, significa “em total conformidade a uma regra”. O conceito define um conjunto de medidas que visam seguir leis e normas — com a ideia de criar uma cultura empresarial, valorizando a ética e a moral durante a prestação de serviços, garantindo relações transparentes entre todos os envolvidos.
-
 O maior objetivo da Compliance é o de minimizar os riscos do negócio — como as penalidades decorrentes de descumprimento das leis e regulamentos específicos da área em que a empresa é atuante. 
-
 Na área de TI, Compliance se refere basicamente à segurança dos dados, contando com políticas de acesso, cultura interna e tecnologias antifraude para garantir a confiabilidade de suas informações.
